@@ -1,0 +1,15 @@
+.navbar {
+  margin-bottom: 50px;
+}
+
+.loginPage {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.newChallenge {
+  max-width: 800px!important;
+  margin-left: auto;
+  margin-right: auto;
+}
